@@ -1,4 +1,7 @@
-<h2 align="left">Hi! I'm Amit </h2>
+<h2 align="left">Hi, I'm Amit 👋 </h2>
+
+CSE student at MNIT Jaipur. Full-stack MERN developer and machine learning enthusiast.
+
 
 ###
 
@@ -58,6 +61,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Amit6217/Amit6217/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amit6217/Amit6217/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
----
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Amit6217" alt="Profile views"/>
+</div>
+
