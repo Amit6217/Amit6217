@@ -61,8 +61,3 @@
 <img src="https://raw.githubusercontent.com/Amit6217/Amit6217/output/snake.svg" alt="Snake animation" />
 
 ---
-
-### ✨ Quick Bytes:
-- 🧠 LeetCode Knight 🏅  
-- 🦸 Die-hard Marvel nerd  
-- 🧘 Sometimes lost in philosophy
