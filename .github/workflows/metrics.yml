@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Update every 12 hours (less API load, still fresh)
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,19 +13,17 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-          # Sections shown
           base: header, activity, community, repositories, metadata
-
-          # Include private repo contribution data
           repositories_affiliations: owner, collaborator
 
-          # Best theme (balanced + modern + dark)
+          # 👇 Required for theme to work
+          config_display: large
+
+          # Theme
           config_theme: dracula
 
-          # Timezone for contribution dates
           config_timezone: Asia/Kolkata
 
-          # Add useful additional cards
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
@@ -38,5 +36,4 @@ jobs:
           plugin_lines: yes
           plugin_lines_history_limit: 1
 
-          # Smooth and minimal look
           config_twemoji: yes

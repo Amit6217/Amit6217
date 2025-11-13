@@ -10,6 +10,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit6217&layout=compact&langs_count=6&card_width=320&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
 </div>
 
+---
+
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
