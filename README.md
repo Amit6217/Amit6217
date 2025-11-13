@@ -6,10 +6,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit6217&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=dracula&rank_icon=github&locale=en" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit6217&show_icons=true&count_private=true&hide_border=false&theme=dracula&rank_icon=github&locale=en" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit6217&layout=compact&langs_count=6&card_width=320&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
 </div>
-
+<div align="center">
+  ![GitHub Metrics](./github-metrics.svg)
+</div>
 ---
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding gif" />
