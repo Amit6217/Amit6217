@@ -6,7 +6,7 @@ Full-Stack **MERN Developer** • Competitive Programming • Exploring **AI/ML*
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Amit6217/Amit6217/output/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Amit6217/Amit6217/metrics/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
@@ -62,7 +62,7 @@ Full-Stack **MERN Developer** • Competitive Programming • Exploring **AI/ML*
 <br clear="both"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amit6217/Amit6217/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Amit6217/Amit6217/snake/snake.svg" alt="Snake animation" />
 </p>
 
 <div align="right">
